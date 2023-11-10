@@ -41,7 +41,7 @@
 			},
 			{
 				"maGv": "gv004",
-				"hoTen": "ThS. Nguyễn Thị Hạnh",
+				"hoTen": "TS. Nguyễn Thị Hạnh",
 				"chucVu": ["Giảng viên"],
 				"email": ["hanhit@hnue.edu.vn"],
 				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/hanhnt2.jpg",
@@ -52,7 +52,7 @@
 			},
 			{
 				"maGv": "gv022",
-				"hoTen": "CN. Trần Hải Long",
+				"hoTen": "ThS. Trần Hải Long",
 				"chucVu": ["Giảng viên tạo nguồn"],
 				"email": ["longth@hnue.edu.vn"],
 				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/longth.png",
@@ -64,7 +64,7 @@
 			},
 			{
 				"maGv": "gv023",
-				"hoTen": "CN. Vũ Thị Xuyến",
+				"hoTen": "ThS. Vũ Thị Xuyến",
 				"chucVu": ["Giảng viên tạo nguồn"],
 				"email": ["xuyenvt@hnue.edu.vn"],
 				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/xuyenvt3.jpg",
@@ -102,7 +102,7 @@
 			},
 			{
 				"maGv": "gv007",
-				"hoTen": "ThS. Phạm Thị Lan",
+				"hoTen": "TS. Phạm Thị Lan",
 				"chucVu": ["Giảng viên"],
 				"email": ["ptlan@hnue.edu.vn"],
 				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/lanpt.jpg",
@@ -124,7 +124,7 @@
 			},
 			{
 				"maGv": "gv024",
-				"hoTen": "CN. Nguyễn Khắc Ân",
+				"hoTen": "ThS. Nguyễn Khắc Ân",
 				"chucVu": ["Giảng viên tạo nguồn"],
 				"email": ["annk@hnue.edu.vn"],
 				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/annk.jpg",
@@ -160,21 +160,8 @@
 				]
 			},
 			{
-				"maGv": "gv011",
-				"hoTen": "TS. Phạm Thị Anh Lê",
-				"chucVu": ["Giảng viên"],
-				"email": ["lepta@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/lepta2020.jpg",
-				"chuyenMon": [
-					"Cơ sở dữ liệu",
-					"Khai phá dữ liệu",
-					"Web ngữ nghĩa",
-					"Trí tuệ nhân tạo"
-				]
-			},
-			{
 				"maGv": "gv012",
-				"hoTen": "CN. Lê Xuân Hiền",
+				"hoTen": "ThS. Lê Xuân Hiền",
 				"chucVu": ["Giảng viên"],
 				"email": ["lexuanhien@hnue.edu.vn"],
 				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/hienxl.jpg",
@@ -224,7 +211,7 @@
 			},
 			{
 				"maGv": "gv025",
-				"hoTen": "CN. Đỗ Ba Chín",
+				"hoTen": "ThS. Đỗ Ba Chín",
 				"chucVu": ["Giảng viên tạo nguồn"],
 				"email": ["chindb@hnue.edu.vn"],
 				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/chindb2.jpg",
@@ -250,19 +237,8 @@
 				]
 			},
 			{
-				"maGv": "gv018",
-				"hoTen": "TS. Bùi Minh Đức",
-				"chucVu": ["Giáo viên thực hành"],
-				"email": ["ducbm@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/t_buiminhduc.jpg",
-				"chuyenMon": [
-					"Xây dựng bộ câu hỏi trắc nghiệm trong giảng dạy tin học lớp 11",
-					"Ứng dụng ICT (Công nghệ thông tin và Truyền thông) trong dạy học hình học lớp 11"
-				]
-			},
-			{
 				"maGv": "gv019",
-				"hoTen": "ThS. Kiều Phương Thùy",
+				"hoTen": "TS. Kiều Phương Thùy",
 				"chucVu": ["Giảng viên"],
 				"email": ["thuykp@hnue.edu.vn"],
 				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/thuykp2020.jpg",
@@ -296,7 +272,7 @@
 			},
 			{
 				"maGv": "gv023",
-				"hoTen": "CN. Nguyễn Trung Khánh",
+				"hoTen": "ThS. Nguyễn Trung Khánh",
 				"chucVu": ["Giảng viên tạo nguồn"],
 				"email": ["khanhnt1312@hnue.edu.vn"],
 				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/khanhnt.jpg",
