@@ -6,7 +6,7 @@
 				"hoTen": "PGS.TS Trần Đăng Hưng",
 				"chucVu": ["Trưởng khoa", "Giảng viên"],
 				"email": ["hungtd@hnue.edu.vn", "trandanghung@gmail.com"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/hungtd5.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/hungtd.jpg?raw=true",
 				"chuyenMon": [
 					"Khám phá tri thức từ các mạng sinh học bằng các phương pháp học máy",
 					"Nghiên cứu phát triển phương pháp tính phát hiện gen gây bệnh từ dữ liệu y sinh",
@@ -19,7 +19,7 @@
 				"hoTen": "TS. Đặng Thành Trung",
 				"chucVu": ["Phó Trưởng khoa", "Giảng viên"],
 				"email": ["trungdt@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/trungdt2020.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/trungdt.jpg?raw=true",
 				"chuyenMon": [
 					"Xử lý ảnh: Phục hồi ảnh, đánh giá chất lượng ảnh",
 					"Công nghệ phần mềm",
@@ -31,7 +31,7 @@
 				"hoTen": "TS. Nguyễn Thị Thanh Huyền",
 				"chucVu": ["Trưởng bộ môn", "Giảng viên"],
 				"email": ["ntthuyen@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/huyenntt_100.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/huyenntt.jpg?raw=true",
 				"chuyenMon": [
 					"Các phương pháp hình thức (Formal methods)",
 					"Kiểm chứng mô hình cho hệ thống đồng thời (model checking for concurrent systems)",
@@ -44,7 +44,7 @@
 				"hoTen": "TS. Nguyễn Thị Hạnh",
 				"chucVu": ["Giảng viên"],
 				"email": ["hanhit@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/hanhnt2.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/hanhnt.jpg?raw=true",
 				"chuyenMon": [
 					"Kiểm thử phần mềm tự động",
 					"Chuyển đổi mô hình"
@@ -55,7 +55,7 @@
 				"hoTen": "ThS. Trần Hải Long",
 				"chucVu": ["Giảng viên tạo nguồn"],
 				"email": ["longth@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/longth.png",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/longth.jpg?raw=true",
 				"chuyenMon": [
 					"HTMLOL",
 					"CSSGO",
@@ -67,7 +67,7 @@
 				"hoTen": "ThS. Vũ Thị Xuyến",
 				"chucVu": ["Giảng viên tạo nguồn"],
 				"email": ["xuyenvt@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/xuyenvt3.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/xuyenvt.jpg?raw=true",
 				"chuyenMon": [
 					"Lập trình web"
 				]
@@ -79,7 +79,7 @@
 				"hoTen": "TS. Đỗ Trung Kiên",
 				"chucVu": ["Phó Trưởng khoa", "Trưởng bộ môn", "Giảng viên"],
 				"email": ["kiendt@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/kiendt.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/kiendt.jpg?raw=true",
 				"chuyenMon": [
 					"Tối ưu hóa",
 					"Tính toán chính xác và gần đúng",
@@ -87,25 +87,11 @@
 				]
 			},
 			{
-				"maGv": "gv006",
-				"hoTen": "TS. Đặng Xuân Thọ",
-				"chucVu": ["Giảng viên"],
-				"email": ["thodx@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/thodx.jpg",
-				"chuyenMon": [
-					"Khai phá dữ liệu (Data mining)",
-					"Tin sinh học (Bioinformatics)",
-					"Học máy (Machine learning)",
-					"Phân lớp (Classification)",
-					"Phân cụm (Clustering)"
-				]
-			},
-			{
 				"maGv": "gv007",
 				"hoTen": "TS. Phạm Thị Lan",
 				"chucVu": ["Giảng viên"],
 				"email": ["ptlan@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/lanpt.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/lanpt.jpg?raw=true",
 				"chuyenMon": [
 					"Thuật toán nâng cao",
 					"Khai phá tri thức",
@@ -117,7 +103,7 @@
 				"hoTen": "ThS. Nguyễn Thị Hồng",
 				"chucVu": ["Giảng viên"],
 				"email": ["nguyenhong@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/hongnta2.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/hongnta.jpg?raw=true",
 				"chuyenMon": [
 					"Data mining: Bài toán phân lớp"
 				]
@@ -127,7 +113,7 @@
 				"hoTen": "ThS. Nguyễn Khắc Ân",
 				"chucVu": ["Giảng viên tạo nguồn"],
 				"email": ["annk@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/annk.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/annk.jpg?raw=true",
 				"chuyenMon": [
 					"Thuật toán nâng cao"
 				]
@@ -139,7 +125,7 @@
 				"hoTen": "TS. Lê Thị Tú Kiên",
 				"chucVu": ["Trưởng bộ môn", "Giảng viên"],
 				"email": ["kienltt@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/kienltt3.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/kienltt.jpg?raw=true",
 				"chuyenMon": [
 					"Tin–Sinh học",
 					"Xử lý ngôn ngữ tự nhiên",
@@ -149,9 +135,9 @@
 			{
 				"maGv": "gv010",
 				"hoTen": "PGS.TS. Phạm Thọ Hoàn",
-				"chucVu": ["Giám đốc Trung tâm Khoa học Tính toán", "Giảng viên"],
+				"chucVu": ["Giảng viên"],
 				"email": ["hoanpt@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/t_phamthohoan.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/hoanpt.jpg?raw=true",
 				"chuyenMon": [
 					"Ứng dụng web",
 					"Lập trình web",
@@ -164,7 +150,7 @@
 				"hoTen": "ThS. Lê Xuân Hiền",
 				"chucVu": ["Giảng viên"],
 				"email": ["lexuanhien@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/hienxl.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/hienlx.jpg?raw=true",
 				"chuyenMon": [
 					"Cơ sở dữ liệu",
 					"Lập trình web",
@@ -172,13 +158,13 @@
 				]
 			}
 		],
-		"mmt": [
+		"ktmt": [
 			{
 				"maGv": "gv014",
 				"hoTen": "TS. Nguyễn Thế Lộc",
 				"chucVu": ["Trưởng bộ môn", "Giảng viên"],
 				"email": ["locnt@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/locnt.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/locnt.jpg?raw=true",
 				"chuyenMon": [
 					"Đồ họa máy tính",
 					"Mạng máy tính",
@@ -191,7 +177,7 @@
 				"hoTen": "ThS. Vũ Thái Giang",
 				"chucVu": ["Giảng viên"],
 				"email": ["giangvt@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/t_vuthaigiang.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/giangvt.jpg?raw=true",
 				"chuyenMon": [
 					"Mạng máy tính",
 					"Phương pháp giảng dạy"
@@ -202,7 +188,7 @@
 				"hoTen": "ThS. Nguyễn Thị Quỳnh Hoa",
 				"chucVu": ["Giảng viên"],
 				"email": ["hoantq@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/Hoantq.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/hoantq.jpg?raw=true",
 				"chuyenMon": [
 					"Mạng máy tính",
 					"Kỹ thuật điện tử",
@@ -214,7 +200,7 @@
 				"hoTen": "ThS. Đỗ Ba Chín",
 				"chucVu": ["Giảng viên tạo nguồn"],
 				"email": ["chindb@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/chindb2.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/chindb.jpg?raw=true",
 				"chuyenMon": [
 					"Mạng máy tính",
 					"Kỹ thuật điện tử",
@@ -228,7 +214,7 @@
 				"hoTen": "TS. Nguyễn Chí Trung",
 				"chucVu": ["Trưởng bộ môn", "Giảng viên"],
 				"email": ["trungnc@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/t_nguyenchitrung.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/trungnc.jpg?raw=true",
 				"chuyenMon": [
 					"Phương pháp dạy học phát triển tư duy thuật toán",
 					"Các phương pháp dạy học tích cực",
@@ -241,7 +227,7 @@
 				"hoTen": "TS. Kiều Phương Thùy",
 				"chucVu": ["Giảng viên"],
 				"email": ["thuykp@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/thuykp2020.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/thuykp.jpg?raw=true",
 				"chuyenMon": [
 					"Phần mềm dạy học",
 					"Dạy học theo dự án",
@@ -253,7 +239,7 @@
 				"hoTen": "ThS. Trần Thị Thu Bình",
 				"chucVu": ["Giáo viên thực hành"],
 				"email": ["tranbinh@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/t_tranthithubinh.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/binhttt.jpg?raw=true",
 				"chuyenMon": [
 					"Dạy học tương tác",
 					"Ứng dụng phần mềm tin học vào việc soạn bài giảng các môn học"
@@ -264,7 +250,7 @@
 				"hoTen": "Ths. Nguyễn Thị Hồng",
 				"chucVu": ["Giảng viên"],
 				"email": ["nguyenthihong@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/hongntb.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/hongntb.jpg?raw=true",
 				"chuyenMon": [
 					"Dạy học tương tác",
 					"Lập trình Stem/Steam"
@@ -275,7 +261,7 @@
 				"hoTen": "ThS. Nguyễn Trung Khánh",
 				"chucVu": ["Giảng viên tạo nguồn"],
 				"email": ["khanhnt1312@hnue.edu.vn"],
-				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/khanhnt.jpg",
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/khanhnt.jpg?raw=true",
 				"chuyenMon": [
 					"HTMLOL",
 					"CSSGO",
