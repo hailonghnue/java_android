@@ -268,6 +268,60 @@
 					"JAVALORANT"
 				]
 			}
+		],
+		"hckt": [
+			{
+				"maGv": "gv024",
+				"hoTen": "ThS. Phạm Công Thành",
+				"chucVu": ["Quản lý Sinh viên"],
+				"email": ["thanhpc@hnue.edu.vn"],
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/thanhpc.jpg?raw=true",
+				"chuyenMon": [
+					"Đánh giá rèn luyện",
+					"Quy chế đào tạo",
+					"Học bổng"
+				]
+			},
+			{
+				"maGv": "gv025",
+				"hoTen": "CN. Trần Thu Hà",
+				"chucVu": ["Giáo vụ"],
+				"email": ["ttha@hnue.edu.vn"],
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/hatt.jpg?raw=true",
+				"chuyenMon": [
+					"Điểm học tập",
+					"Đăng ký tín chỉ",
+					"Hủy học phần",
+					"Thời khóa biểu Sinh viên",
+					"Phúc khảo điểm thi"
+				]
+			},
+			{
+				"maGv": "gv026",
+				"hoTen": "CN. Đinh Hoàng Minh",
+				"chucVu": ["Kỹ thuật viên"],
+				"email": ["minhdh@hnue.edu.vn"],
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/minhdh.jpg?raw=true",
+				"chuyenMon": [
+					"Quản lý phòng máy",
+					"Xử lý sự cố kỹ thuật",
+					"Cài đặt phần mềm",
+					"Quản trị hệ thống"
+				]
+			},
+			{
+				"maGv": "gv027",
+				"hoTen": "CN. Nguyễn Duy Sơn",
+				"chucVu": ["Kỹ thuật viên"],
+				"email": ["duyson@hnue.edu.vn"],
+				"anhDaiDien": "https://github.com/hailonghnue/java_android/blob/main/can%20bo/sonnd.jpg?raw=true",
+				"chuyenMon": [
+					"Quản lý phòng máy",
+					"Xử lý sự cố kỹ thuật",
+					"Cài đặt phần mềm",
+					"Quản trị hệ thống"
+				]
+			}
 		]
 	},
 	"language": {
